@@ -1,5 +1,5 @@
 Create Table bears (
-  id integer,
+  id integer primary key,
   name text,
   age integer,
   gender char(1) check(gender = "M" or gender = "F"),
