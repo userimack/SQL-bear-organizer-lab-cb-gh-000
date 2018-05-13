@@ -6,4 +6,4 @@ Create Table bears (
   color text,
   temperament text,
   alive boolean
-)
+);
